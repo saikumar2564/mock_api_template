@@ -7,6 +7,27 @@
       "age": 2,
       "place": "Visakhapatnam",
       "gender": "Male"
+    },
+        {
+      "id": 2,
+      "name": "snuppy",
+      "age": 7,
+      "place": "Visakhapatnam",
+      "gender": "Female"
+    },
+        {
+      "id": 3,
+      "name": "browny",
+      "age": 4,
+      "place": "warangal",
+      "gender": "Male"
+    },
+        {
+      "id": 4,
+      "name": "tommy",
+      "age": 6,
+      "place": "banglore",
+      "gender": "Female"
     }
     ]
   }
