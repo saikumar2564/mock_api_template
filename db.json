@@ -33,10 +33,31 @@
     "users":[
       {
         "id": 1,
-        "userid": "browny",
+        "userid": "3",
         "place": 4,
-        "title": "warangal",
-        "completed": "yes"
+        "title": "hsjsdhbs",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "userid": "3",
+        "place": 4,
+        "title": "batman",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "userid": "3",
+        "place": 4,
+        "title": "spiderman",
+        "completed": false
+      },
+      {
+        "id": 4,
+        "userid": "3",
+        "place": 4,
+        "title": "avatar",
+        "completed": true
       }
     ]
   }
