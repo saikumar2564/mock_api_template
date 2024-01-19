@@ -1,25 +1,15 @@
 {
-  "name": "mock_api_template",
+  "name": "mock-server-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "mock server app",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/saikumar2564/mock_api_template.git"
+    "start": "node server.js" 
   },
   "keywords": [],
-  "author": "",
+  "author": "abdul",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/saikumar2564/mock_api_template/issues"
-  },
-  "homepage": "https://github.com/saikumar2564/mock_api_template#readme",
   "dependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.0"
   }
 }
